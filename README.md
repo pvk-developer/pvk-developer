@@ -1,14 +1,14 @@
 # Hey there! 👋
 
-I'm Plamen, and I've been passionately contributing to the open-source software community since 2018.
+I'm Plamen, a passionate software engineer and open-source contributor since 2018.  
 
 ## 🚀 About Me
 
-My open-source journey began as a software engineer at [DAI-Lab](https://github.com/DAI-Lab), where I faced and conquered a multitude of intriguing challenges. These experiences not only sharpened my skills but also broadened my horizons in the realms of open source and software engineering.
+My journey in open source began at [DAI-Lab](https://github.com/DAI-Lab), where I tackled a variety of complex challenges that deepened my skills in software design, machine learning, and distributed systems. Since then, I've been actively contributing to open-source projects that aim to push the boundaries of data science, automation, machine learning and synthetic data generation.
 
-## 🔭 What I'm Up To
+## 👨‍💻 What I’m Working On
 
-I'm currently a part of the fantastic team at [DataCebo](https://datacebo.com/), the proud creators of [SDV](https://github.com/sdv-dev), the largest ecosystem for synthetic data generation and evaluation. My role involves developing new features, refactoring, and maintaining various projects within this ecosystem. Here are some of the key projects I'm actively involved in:
+I'm currently part of the awesome team at [DataCebo](https://datacebo.com/), the creators of [SDV](https://github.com/sdv-dev/SDV) — the largest ecosystem for synthetic data generation and evaluation. My work spans feature development, code refactoring, and maintaining several open-source tools, including:
 
 - [SDV](https://github.com/sdv-dev/SDV): The Synthetic Data Vault, a powerful synthetic data generation tool that maintains the same format and statistical properties as the real data.
 
@@ -24,9 +24,9 @@ I'm currently a part of the fantastic team at [DataCebo](https://datacebo.com/),
 
 - [SDGym](https://github.com/sdv-dev/SDGym): Synthetic Data Gym, a framework for benchmarking the performance of synthetic data generators based on SDV and SDMetrics.
 
-## 🏆 Contributions
+## 🏆 Notable Contributions
 
-Over the years, I've had the privilege of contributing to several public repositories, including:
+Here are some of the other open-source projects I’ve contributed to over the years:
 
 - [SteganoGAN](https://github.com/DAI-Lab/SteganoGAN): A tool for creating steganographic images using adversarial training.
 
@@ -48,4 +48,8 @@ Over the years, I've had the privilege of contributing to several public reposit
 
 - [Draco](https://github.com/sintel-dev/Draco): A collection of end-to-end solutions for machine learning problems commonly found in monitoring wind energy production systems.
 
-Feel free to explore these projects and don't hesitate to reach out if you have any questions or would like to collaborate!
+## 🤝 Let’s Connect
+If you’re working on something interesting — especially around synthetic data, AutoML, or time series — I’d love to hear from you!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/plamen-valentinov-kolev/)
+- 🐦 [X (Twitter)](https://x.com/pvkdeveloper)
